@@ -1,4 +1,3 @@
-
 /* CYANOBACTERIA.CSS v1.1 */
 /* HTML/CSS layout template from https://ribo.zone/free/layouts/ */
 /* last updated: june 28, 2026 */
@@ -137,33 +136,6 @@ div.small > img {
 	border-radius: 5px;
 }
 
-<style>
-/* Scrollbar styling */
-    ::-webkit-scrollbar {
-    width: 10px;
-    /* Vertical Width */
-    height: 10px;
-    /* Horizontal Height */
-}
-                    
-    /* Scrollbar Track Color */
-    ::-webkit-scrollbar-track {
-    background: transparent;
-    border-radius: 0px;
-}
-                    
-    /* Scrollbar Thumb Color */
-    ::-webkit-scrollbar-thumb {
-    background: transparent;
-    border-radius: 0px;
-    border: 2px solid #000000;
-}
-                    
-    /* Thumb Hover */
-    ::-webkit-scrollbar-thumb:hover {
-        background: transparent;
-}
-</style>
 
 section {
 	border: 2px ridge var(--border);
